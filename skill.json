@@ -18,7 +18,7 @@
       "distributionCountries": [],
       "isAvailableWorldwide": true,
       "locales": {
-        "en-US": {
+        "en-GB": {
           "description": "AskPlex is an Alexa skill which allows you to play music hosted by your plex media server",
           "examplePhrases": [
             "Alexa open askPlex",
