@@ -5,6 +5,8 @@ The official Plex skill is not available in all regions, so this skill serves as
 
 > ***Disclaimer:*** AskPlex does not provide any media content or sources. Users must provide their own content from a Plex Media Server. The AskPlex project does not support bootleg content or other illegally sourced material.
 
+With en-GB locale
+
 ### Documentation
 [AskPlex Wiki](https://github.com/andresponte/askplex/wiki)
 
